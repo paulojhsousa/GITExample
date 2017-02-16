@@ -16,7 +16,7 @@
         android:text="Hello From the Dragon Board!!" />
 
     <Button
-        android:text="Button"
+        android:text="REFRESH"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView"
